@@ -1,4 +1,4 @@
- # Idea files
-.idea
+# Intellij
+.idea/
 *.iml
-target/
+*.iws
